@@ -12,7 +12,7 @@
 [![contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shigurex&theme=dracula)](https://github.com/Shigurex)
 
 <p align="left">
-  <a href="https://github.com/Shigure">
+  <a href="https://github.com/Shigurex">
     <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Shigurex&count_private=true&show_icons=true&theme=dracula" />
   </a>
   <a href="https://github.com/Shigurex">
