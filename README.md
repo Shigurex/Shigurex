@@ -1,4 +1,4 @@
-### Welcome to Shigurex's GitHub Page
+## Welcome to Shigurex's GitHub Page
 
 <p align="left">
   <a href="https://github.com/Shigurex/Shigurex/">
@@ -9,8 +9,10 @@
   </a>
 </p>
 
+[![contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shigurex&theme=dracula)](https://github.com/Shigurex)
+
 <p align="left">
-  <a href="https://github.com/tocoteron">
+  <a href="https://github.com/Shigure">
     <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Shigurex&count_private=true&show_icons=true&theme=dracula" />
   </a>
   <a href="https://github.com/Shigurex">
@@ -19,8 +21,8 @@
 </p>
 
 
-[![status](https://github-readme-streak-stats.herokuapp.com/?user=Shigurex&theme=dracula)](https://github.com/Shigurex/github-readme-streak-stats)
+<!-- [![status](https://github-readme-streak-stats.herokuapp.com/?user=Shigurex&theme=dracula)](https://github.com/Shigurex)
 
-[![contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shigurex&theme=dracula)](https://github.com/Shigurex/github-profile-summary-cards)
+[![contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shigurex&theme=dracula)](https://github.com/Shigurex) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shigurex&theme=dracula&column=7)](https://github.com/Shigurex/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Shigurex&theme=dracula&column=7)](https://github.com/Shigurex) -->
